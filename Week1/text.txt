@@ -1,0 +1,14 @@
+IN this we learnt about the javaScript concept and basic of the javaScript is covered which is basically more important
+so lets deep dive and make notes about the js in the upcoming 
+files..
+
+1. Why languages?
+We use the programming language to communicate with computer so that he can under-
+stand about what we want to say.
+It basically provide ease for the computer programmer to communicate with the computer.
+The code we write in any programming language is converted into the binary languages
+which is the only language understandable by the computer.
+It is comverted into the computer understandable language with the help of other program 
+called as the compiler.
+High level language code -----compiler---> binary language.
+
